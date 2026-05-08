@@ -1,4 +1,4 @@
-# Hi, I'm [Hosein] 👋
+# Hi, I'm Hosein 👋
 
 I'm a backend-focused software developer with around 3–4 years of experience, mainly working with the Laravel ecosystem.
 
@@ -78,14 +78,16 @@ Tech stack:
 - Laravel Reverb
 - PostgreSQL / MySQL
 
+
+I’m currently working on
 Repository overview:  
-[Fitness Coaching Platform Overview](https://github.com/your-username/fitness-platform-overview)
+[Fitness Coaching Platform Overview](https://github.com/HoseinFrhni/Coachiwo)
 
 ---
 
 ## Contact
 
-- GitHub: [@HoseinFrhni]([https://github.com/your-username](https://github.com/HoseinFrhni))
+- GitHub: [@HoseinFrhni](https://github.com/HoseinFrhni)
 <!-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)-->
 - Email: hoseinfarahaniwork@gmail.com
 

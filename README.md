@@ -79,10 +79,19 @@ Tech stack:
 - PostgreSQL / MySQL
 
 
-I’m currently working on
+✴️I’m currently working on
 Repository overview:  
 [Fitness Coaching Platform Overview](https://github.com/HoseinFrhni/Coachiwo)
 
+🌟Some of my projects:
+⭐Website and CRM for commercial company(skytech):
+https://skytechelec.com
+
+⭐I was a member of the PHP development team for a project of Iran’s Ministry of Cooperatives, Labour, and Social Welfare, which served more than 3 million users, and I single‑handedly developed the module for registering and establishing cooperatives nationwide:
+https://taavoni.mcls.gov.ir/home.php?r=login
+
+
+⭐I also worked as a Laravel developer and built a panel using Laravel, Filament, Livewire, and Tailwind CSS. This panel was designed to manage the security section of an EDR project, and the security team’s workflow was handled through it. The panel connects to different parts of the project—such as the AI and data engineering components—via APIs. Due to the project’s sensitivity and confidentiality, the source code cannot be made public.
 ---
 
 ## Contact

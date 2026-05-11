@@ -91,8 +91,7 @@ https://skytechelec.com
 https://taavoni.mcls.gov.ir/home.php?r=login
 
 
-✓I also worked as a Laravel developer and built a panel using Laravel, Filament, Livewire, and Tailwind CSS. This panel was designed to manage the security section of an EDR project, and the security team’s workflow was handled through it. The panel connects to different parts of the project—such as the AI and data engineering components—via APIs. Due to the project’s sensitivity and confidentiality, the source code cannot be made public.
-
+✓Developed a Security Operations (SOC) management panel for an EDR platform.using Laravel, filamentphp, livewire, tailwind css, API 
 
 ---
 

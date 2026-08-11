@@ -1,6 +1,6 @@
 # Hi, I'm Hosein 👋
 
-I'm a backend-focused software developer with around 3–4 years of experience, mainly working with the Laravel ecosystem.
+I'm a backend-focused software developer with around 4+ years of experience, mainly working with the Laravel ecosystem.
 
 My main focus is building practical, maintainable, and scalable web applications using PHP, Laravel, Livewire, FilamentPHP, and relational databases.
 

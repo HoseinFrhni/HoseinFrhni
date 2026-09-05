@@ -19,7 +19,6 @@ I'm also an MBA student, which helps me better understand business, product stra
 - Laravel
 - Livewire
 - FilamentPHP
-- FastAPI
 
 ### Frontend & UI
 - Tailwind CSS
@@ -37,6 +36,13 @@ I'm also an MBA student, which helps me better understand business, product stra
 - Polars
 - Prefect
 
+### Micro services
+- Golang
+- Gin
+- GORM
+- API
+- gRPC
+  
 ---
 
 ## What I'm Interested In
@@ -46,6 +52,7 @@ I'm also an MBA student, which helps me better understand business, product stra
 - SaaS platforms
 - Backend architecture
 - Database design and optimization
+- Micro Service development with Go (concurrency,Gin,GORM,API,gRPC)
 - Data processing and analytics
 - API development
 - Learning new technologies

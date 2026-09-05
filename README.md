@@ -20,16 +20,6 @@ I'm also an MBA student, which helps me better understand business, product stra
 - Livewire
 - FilamentPHP
 
-### Frontend & UI
-- Tailwind CSS
-- Alpine.js
-- Livewire Components
-
-### Databases
-- PostgreSQL
-- MySQL
-- DuckDB
-
 ### Data Tools
 - Python
 - Pandas
@@ -42,7 +32,16 @@ I'm also an MBA student, which helps me better understand business, product stra
 - GORM
 - API
 - gRPC
-  
+
+  ### Frontend & UI
+- Tailwind CSS
+- Alpine.js
+- Livewire Components
+
+### Databases
+- PostgreSQL
+- MySQL
+- DuckDB
 ---
 
 ## What I'm Interested In
